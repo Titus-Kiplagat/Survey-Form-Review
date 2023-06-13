@@ -1,0 +1,23 @@
+{
+  "name": "survery-form-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titus-Kiplagat/Survey-Form-Review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Titus-Kiplagat/Survey-Form-Review/issues"
+  },
+  "homepage": "https://github.com/Titus-Kiplagat/Survey-Form-Review#readme",
+  "devDependencies": {
+    "hint": "^7.1.9"
+  }
+}
